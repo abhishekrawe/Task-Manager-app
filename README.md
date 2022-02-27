@@ -7,7 +7,6 @@ A Task Manager App using ReactJS and Redux, You can add Your Task . Edit , Updat
 🚀*Some Glimpse*
 
 - *Some Glimpse of our Results*<br>
-✔️Here you can See the Message reminder recived on whatsapp .
 ![Pic 1](Preview/fullvid.gif)
 
 ⏳**Tech Stack used:**
